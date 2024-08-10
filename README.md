@@ -1,3 +1,3 @@
 # book_tutorials
 
-I love reading technical books to refresh my understanding of concepts and acquiant me with better knowledge of the machine learning field. This directory was created to practice the labs in some of the books I read books.
+I love reading technical books to deepen my understanding of concepts and to stay up-to-date with advancements in the machine learning field. This directory was created as a space to practice the labs from some of the books I read.
