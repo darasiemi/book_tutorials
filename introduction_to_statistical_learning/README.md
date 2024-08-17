@@ -14,3 +14,12 @@ To install pip in conda
 ```bash
 conda install pip
 ```
+
+Then cd to the directory
+```bash
+cd introduction_to_statistical_learning
+```
+Therafter, launch Jupyter notebook
+```
+jupyter notebook
+```
